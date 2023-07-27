@@ -7,3 +7,4 @@
 #### 一些示例图片
 ![图片1](https://github.com/3493620082/yy-Scoundrel/blob/main/Example%20image/%E5%9B%BE%E7%89%871.png)
 ![图片2](https://github.com/3493620082/yy-Scoundrel/blob/main/Example%20image/%E5%9B%BE%E7%89%872.png)
+#### 开发者联系方式：QQ号3493620082
